@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["hotp","Two-step verfication of HOTP algorithm."],["totp","Two-step verification of TOTP algorithm"]]});

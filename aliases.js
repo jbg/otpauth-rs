@@ -1,0 +1,10 @@
+var ALIASES = {};
+ALIASES['base32'] = {};
+ALIASES['byteorder'] = {};
+ALIASES['crypto'] = {};
+ALIASES['libc'] = {};
+ALIASES['otpauth'] = {};
+ALIASES['rand'] = {};
+ALIASES['rand'] = {};
+ALIASES['rustc_serialize'] = {};
+ALIASES['time'] = {};
